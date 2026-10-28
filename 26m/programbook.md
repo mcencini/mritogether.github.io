@@ -144,7 +144,7 @@ This year, MRI Together becomes a collaborative hackathon. The goal is to bring 
 <td>
 Open-source sequence programming
 <span class="speaker">Maxim Zeitsev - University Medical Center Freiburg, Freiburg, Germany</span>
-<span class="speaker">Jon F. Nielsen — University of Michigan, Ann Arbor, USA</span>
+<span class="speaker">Jon-Fredrik Nielsen — University of Michigan, Ann Arbor, USA</span>
 </td>
 </tr>
 
